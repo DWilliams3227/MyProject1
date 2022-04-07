@@ -6,6 +6,9 @@
 #Update routers and switches;
 #read equipment from a file, write updates & errors to file
 
+#modified by Dominique Williams
+#for assignment Git11
+
 ##---->>>> Use a try/except clause to import the JSON module
 try:
     import json
